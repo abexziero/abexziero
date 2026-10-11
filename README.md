@@ -7,21 +7,27 @@
 <p align="center">
   <a href="https://twitter.com/akbarwsnu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/akbarwsnu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61580053525355" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://fb.com/akbarwssnu" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.threads.com/@akbarwsnu" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
   <a href="mailto:abexziero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abexziero.abexziero&left_text=Profile%20Views&right_color=0e75b6" alt="abexziero" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abexziero.abexziero&left_text=Profile%20Views&right_color=0e75b6" alt="Profile Views" />
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
 - 🔭 Full-Stack Developer (**Web & Mobile**) and **Agentic AI Developer**
+- 🌱 Currently learning **Agentic AI, LLM tooling & MCP**
 - 🧠 Building software, mobile apps, and AI agents
 - 📍 Based in **Kalimantan Timur, Indonesia**
 - 📫 Reach me at **abexziero@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -76,6 +82,17 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="arduino" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/abexziero/jelajanime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000" alt="jelajanime" /></a>
+  <a href="https://github.com/abexziero/aplikasi-kasir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=aplikasi-kasir&theme=tokyonight&hide_border=true&bg_color=00000000" alt="aplikasi-kasir" /></a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,6 +107,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abexziero&theme=tokyonight" alt="abexziero" />
 </p>
+
+---
 
 ## 🐍 Contribution Snake
 
