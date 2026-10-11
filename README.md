@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Akbar%20Wisnu&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" alt="" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Web+%26+Mobile);Software+Engineer;Agentic+AI+Developer;Based+in+Indonesia" alt="Typing SVG" />
@@ -66,8 +66,8 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/abexziero/jelajanime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000" alt="jelajanime" /></a>
-  <a href="https://github.com/abexziero/aplikasi-kasir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=aplikasi-kasir&theme=tokyonight&hide_border=true&bg_color=00000000" alt="aplikasi-kasir" /></a>
+  <a href="https://github.com/abexziero/jelajanime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="jelajanime" /></a>
+  <a href="https://github.com/abexziero/aplikasi-kasir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=aplikasi-kasir&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="aplikasi-kasir" /></a>
 </p>
 
 ---
@@ -85,14 +85,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abexziero&theme=tokyonight" alt="abexziero" />
-</p>
-
----
-
-## 📈 Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abexziero/abexziero/main/metrics.svg" alt="Metrics" />
 </p>
 
 ---
@@ -115,4 +107,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" alt="" />
