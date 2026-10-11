@@ -66,8 +66,20 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/abexziero/jelajanime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="jelajanime" /></a>
-  <a href="https://github.com/abexziero/aplikasi-kasir"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=aplikasi-kasir&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="aplikasi-kasir" /></a>
+  <a href="https://github.com/abexziero/jelajanime"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="jelajanime" /></a>
+  <a href="https://github.com/abexziero/aplikasi-kasir"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=aplikasi-kasir&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="aplikasi-kasir" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abexziero/jelajanime"><img width="80%" src="https://raw.githubusercontent.com/abexziero/jelajanime/main/docs/preview.png" alt="jelajanime preview" /></a>
+  <br/>
+  <sub><b>jelajanime</b> — katalog anime modern dengan pencarian & detail</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abexziero/aplikasi-kasir"><img width="28%" src="https://raw.githubusercontent.com/abexziero/aplikasi-kasir/main/docs/images/community-cashier.png" alt="aplikasi-kasir preview" /></a>
+  <br/>
+  <sub><b>aplikasi-kasir</b> — aplikasi kasir Android untuk UMKM</sub>
 </p>
 
 ---
