@@ -92,7 +92,7 @@
 ## 📈 Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abexziero/abexziero/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/abexziero/abexziero/main/metrics.svg" alt="Metrics" />
 </p>
 
 ---
