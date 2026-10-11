@@ -18,22 +18,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: abexziero
-          template: classic
-          base: header, activity, community, repositories, metadata
+          filename: github-metrics.svg
+          template: terminal
           config_timezone: Asia/Makassar
+          config_display: columns
+          config_theme: dark
+          config_gemoji: yes
+          base: header, activity, community, repositories, metadata
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_sections: most-used
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_lines: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
