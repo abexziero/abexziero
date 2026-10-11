@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" alt="" />
+<img width="100%" src="line.svg" alt="" />
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Web+%26+Mobile);Software+Engineer;Agentic+AI+Developer;Based+in+Indonesia" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 - 🔭 Full-Stack Developer (**Web & Mobile**) and **Agentic AI Developer**
 - 🌱 Currently learning **Agentic AI, LLM tooling & MCP**
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 **Frontend**
 <p>
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/abexziero/jelajanime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abexziero&repo=jelajanime&theme=tokyonight&hide_border=true&bg_color=00000000&description_lines_count=3" alt="jelajanime" /></a>
@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abexziero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=en" alt="abexziero" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 💭 Dev Quote
+<h2 align="center">💭 Dev Quote</h2>
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default" alt="Dev Quote" />
@@ -97,7 +97,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -107,4 +107,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" alt="" />
+<img width="100%" src="line.svg" alt="" />
