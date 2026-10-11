@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abexziero&label=Profile%20views&color=0e75b6&style=flat" alt="abexziero" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abexziero.abexziero&left_text=Profile%20Views&right_color=0e75b6" alt="abexziero" />
 </p>
 
 ## 👨‍💻 About Me
